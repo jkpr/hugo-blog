@@ -1,4 +1,4 @@
-baseurl = "jkpr.github.io"
+baseurl = "/"
 languageCode = "en-us"
 title = "Icarus"
 # Enable comments by entering your Disqus shortname
@@ -18,7 +18,7 @@ theme = "hugo-icarus-theme"
 [params]
     # Tell me who you are
     author = "James K. Pringle"
-    bio = "Blogger - Programmer - Gopher"
+    bio = "Blogger - Programmer - Cheetah"
     location = "U.S.A."
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
@@ -55,7 +55,7 @@ theme = "hugo-icarus-theme"
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/digitalcraftsman"
+    follow_button = "https://github.com/jkpr"
 
 
 [social]
