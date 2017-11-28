@@ -14,26 +14,26 @@ theme = "hugo-geo"
 	showglobe = true
 
 	favicon = "favicon.ico"
-	
+
 	analytics = "code-here"
 
 	github = "https://github.com/jkpr"
 	linkedin = "https://www.linkedin.com/in/jameskpringle"
 	email = "jameskpringle@gmail.com"
-	
+
 	profilepic = "img/profile.jpg"
-	
+
 	title = "James K. Pringle"
 	subtitle = "Blogger - Programmer - Cheetah"
-	
+
 	[[params.navlinks]]
 	name = "About"
 	url = "about"
-	
+
 	[[params.navlinks]]
 	name = "Blog"
 	url = ""
-	
+
 	[[params.navlinks]]
 	name = "Tutorials"
 	url = ""
